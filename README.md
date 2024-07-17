@@ -63,18 +63,15 @@ Um desenvolvedor backend com foco na cultura DevOps, dentro da minha atuação c
   <img src="https://img.shields.io/badge/-Linux-000?&logo=linux&style=for-the-badge" alt="Linux" style="height: 2rem;"/>
 </p>
 
-## Clouds Providers
+### Clouds Providers
 <p>
   <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-000?&logo=google-cloud&style=for-the-badge" alt="Google Cloud Platform" style="height: 2rem;"/>
   <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-000?&logo=amazon-aws&style=for-the-badge" alt="Amazon Web Services" style="height: 2rem;"/>
 </p>
 
-# O que estou estudando no momento? 
+# Planejamento de curto prazo 🧗 
+Aperfeiçoar minha escuta ativa, comunicação e resolução de problemas. Irei continuar os estudos em ferramentas DevOps, me especializar em uma Cloud e consolidar o desenvolvimento backend
 
-
-
-# Planejamento a longo prazo
-
-Com um bom começo em desenvolvimento de software procuro me especializar e colecionar um boa bagagem técnica para que eu possa me tornar um SRE Engineer.
-
+# Planejamento de longo prazo 🚀
+Com um sólido background em desenvolvimento de software, meu objetivo é me especializar e me tornar um SRE Engineer. Pretendo me dedicar ao máximo para compartilhar o conhecimento adquirido ao longo dos anos, influenciando e incentivando mais pessoas a ingressarem nesse universo. Seguirei firme, sem medo de errar, aprendendo constantemente com meus erros para evoluir cada vez mais.
 
