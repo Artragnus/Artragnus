@@ -17,7 +17,7 @@ Um desenvolvedor backend com foco na cultura DevOps, dentro da minha atuação c
 ### Frameworks
 <p>
   <img src="https://img.shields.io/badge/-Express-000?&logo=express&style=for-the-badge" alt="Express" style="height: 2rem;"/>
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?&logo=nestjs&style=for-the-badge" alt="NestJS" style="height: 2rem;"/>
+  <img src="https://img.shields.io/badge/-NestJS-000?&logo=nestjs&style=for-the-badge" alt="NestJS" style="height: 2rem;"/>
 </p>
 
 ### Test
